@@ -1,15 +1,6 @@
 # Python
 ## Web Scraping, Data Cleaning, and Data Analysis Project
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Project Description](#project-description)
-
-## Overview
-
-A python project on web scraping, data cleaning and analysis.
-
 ## Project Description
 
 Data was collected from eBay to obtain valuable information for a business intelligence analysis conducted for a fictitious company. 
@@ -48,7 +39,11 @@ The data was subjected to exploratory analysis to uncover its statistical charac
 
 
 ## Charts
-![Distribution of books sold by location]([URL](https://github.com/nafsahmad/Python_Project/blob/main/img/chart1.png)https://github.com/nafsahmad/Python_Project/blob/main/img/chart1.png)
-![Distribution of Shipping types]([URL](https://github.com/nafsahmad/Python_Project/blob/main/img/chart2.png)https://github.com/nafsahmad/Python_Project/blob/main/img/chart2.png)
-![Plot of seller ratings]([URL](https://github.com/nafsahmad/Python_Project/blob/main/img/chart3.png)https://github.com/nafsahmad/Python_Project/blob/main/img/chart3.png)
+![Distribution of books sold by location](https://github.com/nafsahmad/Python_Project/blob/main/img/chart1.png)
+
+
+![Distribution of Shipping types](https://github.com/nafsahmad/Python_Project/blob/main/img/chart2.png)
+
+
+![Plot of seller ratings](https://github.com/nafsahmad/Python_Project/blob/main/img/chart3.png)
 
